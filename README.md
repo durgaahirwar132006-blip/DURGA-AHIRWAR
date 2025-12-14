@@ -1,6 +1,13 @@
  # 💫 About Me:
 📡 I’m currently working on<br> E-Commerce Sales Analysis Dashboard | https://github.com/durgaahirwar/ecommercesalesanalysis<br><br>🤝 I’m looking to collaborate on  <br>  Business & Financial Data Analysis Projects | https://github.com/durgaahirwar/business&financeanalysis<br><br>🤝 I’m looking for help with  <br> Learning Advanced AWS Cloud Computing & improving all my data skills | https://github.com/durga-ahirwar/aws-cloud-learning<br><br>🌱 I’m currently learning  <br>Advanced SQL, Power BI (DAX), Python for Data Analysis, and AWS Cloud for analytics workloads.<br><br>💬 Ask me about  <br>Excel, SQL, Power BI dashboards, accounting data analysis, Tally prime, and business reporting.<br><br>⚡ Fun fact  <br>I enjoy turning raw numbers into meaningful business insights.<br>
 
+## 💸 Support My Work 🤝	
+
+If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/durga_13082006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ durga-ahirwar-760059389 Vanity URL ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/durgaahirwar132006/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgaahirwar132006@gmail.com) 
